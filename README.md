@@ -1,2 +1,2 @@
 # Python_game
-Game written in python, 
+Running python3 game.py will run an output command window which will show a game where you can move the 'X' cursor with WASD keys to pickup '$' tokens and there is collision detection for a "building" 
